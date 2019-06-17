@@ -155,9 +155,6 @@ Calendar in ical format to the terminal. Use `>` to redirect the output to a fil
     # or multiple years
     $ ./lunarcal 2016 2019 > chinese_lunar_2016_2019.ics
 
-
-[Contact me](mailto: weichen302@gmail.com)
-
 [iCal]: https://raw.github.com/infinet/lunar-calendar/master/chinese_lunar_prev_year_next_year.ics
 [HK_Obs]: http://data.weather.gov.hk/gts/time/conversion1_text_c.htm
 [Screenshot]: http://infinet.github.io/images/lunar_calendar.jpg
